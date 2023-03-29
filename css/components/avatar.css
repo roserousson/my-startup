@@ -1,0 +1,68 @@
+.avatar {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: skyblue;
+}
+.avatar:hover {
+	animation-name: rotate;
+	animation-duration: 0.7s;
+
+}
+.avatar2:hover {
+	animation-name: rotate;
+	animation-duration: 0.7s;
+
+}
+.avatar3:hover {
+	animation-name: rotate;
+	animation-duration: 0.7s;
+
+}
+.avatar4:hover {
+	animation-name: rotate;
+	animation-duration: 0.7s;
+
+}
+.avatar5:hover {
+	animation-name: rotate;
+	animation-duration: 0.7s;
+
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotate(0);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+.avatar2 {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: skyblue;
+}
+
+.avatar3 {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: skyblue;
+}
+
+.avatar4 {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: skyblue;
+}
+
+.avatar5 {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: skyblue;
+}

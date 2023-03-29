@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Vidaloka&display=swap);
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/partner.css");
+@import url("components/team.css");
+@import url("components/list-inline.css");
+
+
+
+body {
+font-family: 'Vidaloka', serif;
+font-size: 18px;
+margin: 0px;
+}
+h1, h2, h3, h4 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+a {
+	font-family: 'Oswald', sans-serif;
+	text-decoration: none;
+	color: #61876E;
+	font-weight: bold ;
+}
+a:hover {
+	color: black;
+}
+
+.list-inline {
+	list-style: none;
+}
